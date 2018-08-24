@@ -1,6 +1,8 @@
+[(Japanese)](index.md)
+
 # Various scratch extensions
 
-In this project I try to extend Scratch by incorporating machine learning and multimedia technologies.
+In this project I try to extend Scratch by incorporating machine learning and multimedia tools.
 
 ## Scratch 2 (offline) extension blocks
 
